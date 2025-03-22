@@ -1,0 +1,25 @@
+{
+  "name": "ts-code-snippet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adepanges/ts-code-snippet.git"
+  },
+  "author": "Ade Pangestu <adepanges@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adepanges/ts-code-snippet/issues"
+  },
+  "homepage": "https://github.com/adepanges/ts-code-snippet#readme",
+  "dependencies": {
+    "@qdrant/qdrant-js": "^1.13.0",
+    "@tensorflow/tfjs-node": "^4.22.0",
+    "cli-progress": "^3.12.0",
+    "openai": "^4.89.0"
+  }
+}
